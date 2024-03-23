@@ -1,2 +1,10 @@
-theme: minimal
-tittle: writing for future
+theme: jekyll-theme-Midnight
+title: Writing for Future
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
