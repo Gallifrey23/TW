@@ -17,7 +17,7 @@ Improve the following sentences. Feel free to rearrange, add, delete, or modify 
 
 2. It is important to keep in mind that the career of Katherine Johnson was able to span both the manual calculation era and the time of computer-based computations.
   
-  **Note: Katherine Johnson worked through the manual calculation era and the time of computer-based computations.**
+    **Note: Katherine Johnson worked through the manual calculation era and the time of computer-based computations.**
 
 3. Python, which was invented by Guido van Rossum from the Netherlands in 1991, is a language whose primary data type is the list (like Lisp) and that emphasizes readability based on indentation (like FORTRAN).
 
