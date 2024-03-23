@@ -1,10 +1,9 @@
 ---
-layout: default
-title: "google-course-exercise"
+title: "Google Course Exercise"
 date: 2023-03-22
 ---
 
-**_#Exercise 4_**
+#**_Exercise 4_**
 
 Improve the following sentences. Feel free to rearrange, add, delete, or modify words as you see fit.
 
@@ -21,4 +20,4 @@ Improve the following sentences. Feel free to rearrange, add, delete, or modify 
      *Use list as primary data type(like Lisp)
      *Easy to read with indentation(like FORTRAN)
 
-**_#Exercise 5_**
+#**_Exercise 5_**
