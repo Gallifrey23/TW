@@ -1,7 +1,10 @@
-
 ---
 layout: default
 ---
+<p>{{ page.date }} - Written by {{ page.author }}</p>
+
+{{ content }}
+
 
 <h1>{{ post.title }}</h1>
 <p>{{ post.date | date_to_string }} - {{ post.author }}</p>
