@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Google Course Exercise"
 date: 2023-03-22
 author: Z
