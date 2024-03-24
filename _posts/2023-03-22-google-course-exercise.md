@@ -4,6 +4,9 @@ title: "Google Course Exercise"
 date: 2023-03-22
 author: Z
 ---
+
+
+
 > [!NOTE]
 > * This page provides possible answers to some in-class exercises of [Google Technical Writing Course].
 > * The anwers here are only for personal reference, not for commercial use.
