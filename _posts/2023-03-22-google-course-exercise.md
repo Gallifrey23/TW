@@ -18,7 +18,7 @@ Improve the following sentences. Feel free to rearrange, add, delete, or modify 
 
 1. JavaScript, despite the similarity in name to Java, has nothing to do with Java and has more to do with marketing, meaning that the inventors of JavaScript wanted to capitalize on the popularity of the earlier language.
 
-   > J
+   > **JavaScript was named for marketing reason after the language "Java" became popular. It has nothing to do with Java.**
 
 2. It is important to keep in mind that the career of Katherine Johnson was able to span both the manual calculation era and the time of computer-based computations.
   
