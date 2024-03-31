@@ -65,7 +65,7 @@ During this part of the exercise you will review a paragraph relating to one par
 Using Google Drawings, create a diagram that represents the following paragraph:  
 When the Domain Name Server (DNS) resolver first receives a request from a client, it asks the Root Server about what Top Level Domain (TLD) server it should talk to next. The Root Server replies to the resolver with the location of the relevant TLD server.
 
-> ![Revised diagram](https://github.com/Gallifrey23/gallifrey23.github.io/blob/9cb29072921dbd434dd6bc7d6a56dc0c2bddc381/assets/Copy%20of%20Exercise%202_%20Good%20Diagram%20-%20DNS.svg)
+> ![Revised diagram](https://github.com/Gallifrey23/gallifrey23.github.io/blob/7fae39449692d76240746d03d2c457df7f767ef1/assets/images/Copy_of_Exercise2_Good_Diagram-DNS.svg)
 
 [Google Technical Writing Course]:https://developers.google.com/tech-writing/for-instructors
 
