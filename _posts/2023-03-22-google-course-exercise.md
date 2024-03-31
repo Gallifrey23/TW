@@ -12,7 +12,8 @@ author: Z
 > * The anwers here are only for personal reference, not for commercial use.
 
 
-# **_Exercise 4_**
+
+# **_TW1-Exercise 4_**
 
 Improve the following sentences. Feel free to rearrange, add, delete, or modify words as you see fit.
 
@@ -30,7 +31,14 @@ Improve the following sentences. Feel free to rearrange, add, delete, or modify 
    >  * **Use list as primary data type (like Lisp)**
    >  * **Easy to read with indentation (like FORTRAN)**
 
-# **_Exercise 5_**
+# **_TW1-Exercise 5_**
+
+>Jun and Arash are recent engineering school graduates who have just joined your engineering team. In the past, new engineers on your team have not run sufficient internal tests before releasing new products. New engineers on your team usually don't know what the term dogfooding means.
+> **Revise the following paragraph for Jun and Arash:**
+	There are several intended primary goals for dogfooding a new project. At the current time, it is suggested by Engineering that all projects be in dogfood for a period of no less than one month. One is to find bugs under heavy, high-cycle usage. When disastrous bugs occurred in 153 out of 157 of the previous project releases, Engineering's analysis of bugs in the aftermath concluded that prevention of the bugs could have happened by more thorough testing.
+
+
+
 
 
 
