@@ -67,6 +67,8 @@ When the Domain Name Server (DNS) resolver first receives a request from a clien
 
 > ![Revised diagram](https://github.com/Gallifrey23/gallifrey23.github.io/blob/7fae39449692d76240746d03d2c457df7f767ef1/assets/images/Copy_of_Exercise2_Good_Diagram-DNS.svg)
 
+> ![Revised diagram](https://github.com/Gallifrey23/gallifrey23.github.io/blob/d23d6fff3d81f1601364bd687f72d2e3e1fde2c6/assets/Copy%20of%20Exercise%202_%20Good%20Diagram%20-%20DNS.svg)
+
 [Google Technical Writing Course]:https://developers.google.com/tech-writing/for-instructors
 
 
