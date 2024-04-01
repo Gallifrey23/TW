@@ -70,6 +70,21 @@ When the Domain Name Server (DNS) resolver first receives a request from a clien
 ![revised diagram](https://github.com/Gallifrey23/gallifrey23.github.io/blob/70a97bcc3fa68a740a88ffbbc60f92fccb91e2f1/assets/revised_diagram%20-%20DNS.jpg)
 
 
+# **_TW2-Exercise 3_**
+
+Describe the appearance of a thumbtack (not a pushpin) without using mathematical measurements, illustrations, or photographs.
+
+>## Description of a Thumbtack  
+>This document explains the appearance of a thumbtack. This document does not describe the usage of thumbtack.  
+A thumbtack resembles a pushpin, except that a thumbtack has a flat, round metal top whereas a pushpin is characterized by its small ball-shaped plastic head.
+
+>**A thumbtack consists of the following two parts:**  
+>### 1. A Flat Round Top  
+>The top of a thumbtack is usually made of metal and in flat, circular shape. It looks like the top of a nail, but usually thinner. 
+>### 2. A Short Sharp Pin
+>The short sharp pin on a thumbtack is pointed at one end, with the other end adhere to the flat round top. The pin is similar to a needle, except that it doesn't have a hole on the top.
+
+
 
 [Google Technical Writing Course]:https://developers.google.com/tech-writing/for-instructors
 
