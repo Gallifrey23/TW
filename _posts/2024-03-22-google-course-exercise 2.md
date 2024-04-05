@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google Course Exercise 2"
+title: "Google Technical Writing Course Exercise 2"
 date: 2024-03-23
 author: Z
 ---
