@@ -4,7 +4,7 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}...........................{{ post.date | date_to_string }}</a></h2>
+      <h2><a href="{{ post.url }}">{{ post.title }}.......................{{ post.date | date_to_string }}</a></h2>
     </li>
   {% endfor %}
 </ul>
