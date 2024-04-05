@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "Google Technical Writing Course Exercise 1"
+title: "Google TW Course Exercise 1"
 date: 2024-03-23
 author: Z
 ---
+
+> [!NOTE]
+> * This page provides possible answers to some in-class exercises of [Google Technical Writing Course].
+> * The anwers here are only for personal reference, not for commercial use.
 
 # **_TW1-Exercise 3_**
 
