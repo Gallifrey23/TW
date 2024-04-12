@@ -19,8 +19,8 @@ In fact, Jane and David have never seen brushes or tubes of any kind.
 
 > See possible [instructions](https://github.com/Gallifrey23/gallifrey23.github.io/blob/a14fe8690d25bfe5b39c3811ce1516d41f65ac38/assets/TW1-Exercise3.pdf) in pdf format
 
-![instructions page1](/images/google_exercise/toothbrush_toothpaste_1.jpg)
-![instructions page2](/images/google_exercise/toothbrush_toothpaste_2.jpg)
-![instructions page3](/images/google_exercise/toothbrush_toothpaste_3.jpg)
-![instructions page4](/images/google_exercise/toothbrush_toothpaste_4.jpg)
-![instructions page5](/images/google_exercise/toothbrush_toothpaste_5.jpg)
+![instructions page1](/images/google_exercise/toothbrush_toothpaste_1.png)
+![instructions page2](/images/google_exercise/toothbrush_toothpaste_2.png)
+![instructions page3](/images/google_exercise/toothbrush_toothpaste_3.png)
+![instructions page4](/images/google_exercise/toothbrush_toothpaste_4.png)
+![instructions page5](/images/google_exercise/toothbrush_toothpaste_5.png)
