@@ -24,3 +24,5 @@ In fact, Jane and David have never seen brushes or tubes of any kind.
 ![instructions page3](/images/google_exercise/toothbrush_toothpaste_3.png)
 ![instructions page4](/images/google_exercise/toothbrush_toothpaste_4.png)
 ![instructions page5](/images/google_exercise/toothbrush_toothpaste_5.png)
+
+[Google Technical Writing Course]:https://developers.google.com/tech-writing/for-instructors
