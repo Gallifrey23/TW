@@ -17,7 +17,7 @@ In fact, Jane and David have never seen brushes or tubes of any kind.
 
 **Write instructions telling Jane or David how to get toothpaste on a toothbrush.**
 
-> See possible [instructions](https://github.com/Gallifrey23/gallifrey23.github.io/blob/a14fe8690d25bfe5b39c3811ce1516d41f65ac38/assets/TW1-Exercise3.pdf) in pdf format
+> See possible [instructions](https://github.com/Gallifrey23/gallifrey23.github.io/blob/a14fe8690d25bfe5b39c3811ce1516d41f65ac38/assets/TW1-Exercise3.pdf) in pdf format, produced through **Oxygen XML Editor**
 
 ![instructions page1](/images/google_exercise/toothbrush_toothpaste_1.png)
 ![instructions page2](/images/google_exercise/toothbrush_toothpaste_2.png)
