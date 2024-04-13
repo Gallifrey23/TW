@@ -1,19 +1,13 @@
 <!-- Setup footer -->
 
-<!-- start theme color meta footers -->
-<meta name="theme-color" content="#353535">
-<meta name="msapplication-navbutton-color" content="#353535">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<!-- end theme color meta footers -->
+<!-- Setup theme-color -->
+{% include footer-custom-theme-colors.html %}
 
 <h6>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.
 Published with <a href="https://pages.github.com/" rel="nofollow">GitHub Pages</a>,
-powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>
-<span class="credits left">Website maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-<span class="credits right"> Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
-
-
-
+powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>,
+website maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>,
+theme by <a href="https://twitter.com/mattgraham">mattgraham</a>.
+</h6>
  
-,
 
