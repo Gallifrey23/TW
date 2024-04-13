@@ -16,16 +16,18 @@ nav li {
   display: inline;
   margin-right: 10px;
 }
-nav a {
+nav li a {
   text-decoration: none;
   text-align: center;
   color:#fff;
 }
-nav a:hover {
+nav li a:hover:not(.active) {
   background-color: #f3f3f3;
+  color: white;
 }
-nav a.active {
+nav li a.active {
   background-color: #f3f3f3;
+  color: white;
 }
 
 footer {
