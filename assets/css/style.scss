@@ -24,7 +24,7 @@ nav a {
 nav a:hover:not(.active) {
   background-color: #f3f3f3;
 }
-.active {
+nav a.active {
   background-color: #04AA6D;
 }
 
