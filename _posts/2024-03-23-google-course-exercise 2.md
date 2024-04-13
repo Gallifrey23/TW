@@ -31,7 +31,7 @@ author: Z
    >  * **Use list as primary data type (like Lisp)**
    >  * **Easy to read with indentation (like FORTRAN)**
 
-# **_TW1-Exercise 5_**
+#<font color=#ffc44d>**_TW1-Exercise 5_**</font>
 
 Jun and Arash are recent engineering school graduates who have just joined your engineering team. In the past, new engineers on your team have not run sufficient internal tests before releasing new products. New engineers on your team usually don't know what the term dogfooding means.
 
@@ -75,9 +75,8 @@ When the Domain Name Server (DNS) resolver first receives a request from a clien
 Describe the appearance of a thumbtack (not a pushpin) without using mathematical measurements, illustrations, or photographs.
 
 >## Description of a Thumbtack  
->This document explains the appearance of a thumbtack. This document does not describe the usage of thumbtack.  
-A thumbtack resembles a pushpin, except that a thumbtack has a flat, round metal top whereas a pushpin is characterized by its small ball-shaped plastic head.
-
+>This document explains the appearance of a thumbtack. This document does not describe the usage of thumbtack.    
+>A thumbtack resembles a pushpin, except that a thumbtack has a flat, round metal top whereas a pushpin is characterized by its small ball-shaped plastic head.
 >**A thumbtack consists of the following two parts:**  
 >### 1. A Flat Round Top  
 >The top of a thumbtack is usually made of metal and in flat, circular shape. It looks like the top of a nail, but usually thinner. 
