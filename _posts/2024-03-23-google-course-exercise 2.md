@@ -31,7 +31,7 @@ author: Z
    >  * **Use list as primary data type (like Lisp)**
    >  * **Easy to read with indentation (like FORTRAN)**
 
-# <font color=#ffc44d>**_TW1-Exercise 5_**</font>
+# <font color=#ffc44d> **_TW1-Exercise 5_**</font>
 
 Jun and Arash are recent engineering school graduates who have just joined your engineering team. In the past, new engineers on your team have not run sufficient internal tests before releasing new products. New engineers on your team usually don't know what the term dogfooding means.
 
