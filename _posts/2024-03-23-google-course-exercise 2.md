@@ -88,4 +88,4 @@ Describe the appearance of a thumbtack (not a pushpin) without using mathematica
 [Google Technical Writing Course]:https://developers.google.com/tech-writing/for-instructors
 
 
-[◀️Back to home page](https://gallifrey23.github.io/)
+
