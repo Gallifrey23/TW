@@ -2,6 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+#title {
+    border: 0;
+    outline: none;
+    margin: 50px;
+    padding: 0 0 5px 0;
+}
 nav{
   background-color: #333;
   color: #fff;
