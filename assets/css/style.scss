@@ -21,10 +21,13 @@ nav a {
   text-align: center;
   color:#fff;
 }
-nav a:hover {
-  color: #ff9900;
+nav a:hover:not(.active) {
   background-color: #f3f3f3;
 }
+.active {
+  background-color: #04AA6D;
+}
+
 footer {
       font-size: 12px;
       font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
