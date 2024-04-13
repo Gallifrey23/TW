@@ -1,7 +1,7 @@
-theme: jekyll-theme-Midnight
+remote_theme: pages-themes/midnight@v0.2.0
 title: Writing for Future
 
-show_downloads: [false]
+show_downloads: [true]
 
 
 defaults:
