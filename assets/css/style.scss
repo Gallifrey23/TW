@@ -13,11 +13,10 @@ nav ul {
   pdding: 0;
 }
 nav li {
-  display: inline;
+  float:left;
   margin-right: 10px;
 }
 nav li a {
-  display: block;
   text-decoration: none;
   text-align: center;
   color:#fff;
