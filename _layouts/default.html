@@ -34,11 +34,9 @@
 
       <section>
         <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>        
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>    
         </div>
-{% include navigation.html %}
+        {% include navigation.html %}
         {{ content }}
 
       </section>
