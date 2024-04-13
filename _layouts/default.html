@@ -35,8 +35,11 @@
       <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          {% include navigation.html %}
         </div>
+        
+        <div id="topnav">
+          {% include navigation.html %}
+         </div>
         
         {{ content }}
 
