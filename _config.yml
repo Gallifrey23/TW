@@ -1,7 +1,7 @@
 theme: jekyll-theme-Midnight
 title: Writing for Future
 
-show_downloads: [true]
+show_downloads: [false]
 
 
 defaults:
