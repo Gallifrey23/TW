@@ -21,11 +21,11 @@ nav a {
   text-align: center;
   color:#fff;
 }
-nav a:hover:not(.active) {
+nav a:hover {
   background-color: #f3f3f3;
 }
 nav a.active {
-  background-color: #04AA6D;
+  background-color: #f3f3f3;
 }
 
 footer {
