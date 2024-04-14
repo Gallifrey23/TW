@@ -19,7 +19,7 @@ tag: Technical Writing
 
 1. JavaScript, despite the similarity in name to Java, has nothing to do with Java and has more to do with marketing, meaning that the inventors of JavaScript wanted to capitalize on the popularity of the earlier language.
 
-   > **JavaScript was named for marketing reason after the language "Java" became popular. It has nothing to do with Java.**
+   > **JavaScript was named for marketing reason after the language "Java" became popular. The name—JavaScript—actually has nothing to do with Java.** 
 
 2. It is important to keep in mind that the career of Katherine Johnson was able to span both the manual calculation era and the time of computer-based computations.
   
@@ -75,7 +75,8 @@ When the Domain Name Server (DNS) resolver first receives a request from a clien
 Describe the appearance of a thumbtack (not a pushpin) without using mathematical measurements, illustrations, or photographs.
 
 >## Description of a Thumbtack  
->This document explains the appearance of a thumbtack. This document does not describe the usage of thumbtack.    
+>This document explains the appearance of a thumbtack. This document does not describe the usage of thumbtack.
+>   
 >A thumbtack resembles a pushpin, except that a thumbtack has a flat, round metal top whereas a pushpin is characterized by its small ball-shaped plastic head.
 >**A thumbtack consists of the following two parts:**  
 >### 1. A Flat Round Top  
