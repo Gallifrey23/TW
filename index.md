@@ -9,7 +9,7 @@ If you have any questions or suggestions，feel free to [contact me](https://gal
 If you are looking for someone to produce clear technical documentation for your products or service, feel free to check out my [CV](https://) and find me through any platform that is convenient for you.  
 
 {% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
+  <h2>{{ tag[0] }}</h2>
   <ul>
     {% for post in tag[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
