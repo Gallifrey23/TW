@@ -3,5 +3,7 @@ layout: default
 ---
 
 
-{% site.tags.technical-writing %}
+{% for post in site.tags.technical-writing %}
+  {{ post.title }}
+{% endfor %} %}
 
