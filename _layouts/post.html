@@ -7,8 +7,12 @@ layout: default
 
 <p>{{ page.date | date_to_string  }} Tag: {{ page.tags. }}</p>
 
-<p>{{ post.title. in page.previous }}</p>
+<!-- set up previouse page title URL -->
 
+{% for post in page.previous %}
+<h4><a href="{{ post.URL }}">{{ post.title }}</a>
+
+  
 {{ content }}
 
 
