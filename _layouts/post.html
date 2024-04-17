@@ -5,11 +5,13 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
-<p>{{ page.date | date_to_string  }}</p>
-<p>Tag: {{ page.tags. }}</p>
+<p>{{ page.date | date_to_string  }} Tag: {{ page.tags. }}</p>
 
+<p>{{ page.previous }}</p>
 
 {{ content }}
 
 
 <a href="https://gallifrey23.github.io/">◀️Back to home page</a>
+
+<p>{{ page.next }}</p>
