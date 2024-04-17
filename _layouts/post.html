@@ -5,14 +5,10 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
-<p style="text-align:right;">{{ page.date | date_to_string  }} Tag: {{ page.tags. }}</p>
+<p style="text-align:right;">{{ page.date | date_to_string  }}</p>
+<p style="text-align:right;">Tag: {{ page.tags. }}</p>
 
-<!-- set up previouse page title URL -->
 
-{% for post in post.previous %}
-<h4><a href="{{ post.URL }}">{{ post.title }}</a></h4>
-{% endfor %} 
-  
 {{ content }}
 
 
