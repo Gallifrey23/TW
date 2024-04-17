@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "关于如何教授学生对雅思听力进行自主独立的错题原因分析"
 date: 2018-03-23
 tag: English-teaching
