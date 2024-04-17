@@ -9,8 +9,8 @@ layout: default
 
 <!-- set up previouse page title URL -->
 
-{% for post in page.previous %}
-<h4><a href="{{ post.URL }}">{{ post.title }}</a></h4>
+{% for page in page.previous %}
+<h4><a href="{{ page.URL }}">{{ page.title }}</a></h4>
 {% endfor %} 
   
 {{ content }}
