@@ -33,6 +33,8 @@ A hard link is a pointer from the filename to the contents. Suppose you run a Li
 >**4. How to create hard links in Linux?**  
 Now, here's the interesting part: you can create multiple hard links to the same existing content. For example, the command echo "Hello There." > foo creates a file named foo containing the textual contents "Hello There." The command ln foo bar is a way of creating a hard link named bar that points to the contents of foo. Changing foo and bar are now synonymous. You can create lots and lots of hard links to the same content. Any change made to foo will also appear in bar.  
 
+* * *
+
 # **_TW2-Exercise 2_**
 
 During this part of the exercise you will review a paragraph relating to one part of the complex diagram you saw during the in-class discussion. The audience for this set of drawings is Intro to Computer Networks students.  
@@ -43,6 +45,7 @@ When the Domain Name Server (DNS) resolver first receives a request from a clien
 
 ![revised diagram](/images/google_exercise/revised_diagram.jpg)
 
+* * *
 
 # **_TW2-Exercise 3_**
 
