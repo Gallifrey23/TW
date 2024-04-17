@@ -30,3 +30,5 @@ tag: English-teaching
 
 
 ### 附录1：
+![checklist1](/images/English-teaching/checklist-1.png)
+![checklist2](/images/English-teaching/checklist-2.png)
