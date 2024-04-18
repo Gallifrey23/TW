@@ -1,3 +1,27 @@
 
 [G1]{% post_url /technical-writing/2024-03-23-google-course-exercise 2 %}
 [G2]{% post_url /technical-writing/2024-03-22-google-course-exercise 1 %}
+
+
+
+<h1>My Posts</h1>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}.......................{{ post.date | date_to_string }}</a></h2>
+    </li>
+  {% endfor %}
+</ul>
+
+
+
+<h1>Latest Posts</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
