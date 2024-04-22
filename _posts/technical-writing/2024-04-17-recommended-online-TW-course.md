@@ -15,25 +15,39 @@ The list is still under development, and hopefully will be useful to anyone who 
 1. [Google Technical Writing Courses for developers](https://developers.google.com/tech-writing/for-instructors)  
 
    **Rating:** ⭐⭐⭐⭐  
-   These courses are suitable for a complete beginner of technical writing, as they cover the basics and intermediate topics in 
+   These Google courses are suitable for a complete beginner of technical writing, as they cover the basics and intermediate 
+   topics in 
    technical writing. Google provides these online courses in two forms:  
    - a variety of self-paced pre-class and in-class materials
    - virtual live sessions
      
    **Highlights:**  
    The pre-class and in-class materials are freely available for anyone (even if you are not attending the live sessions). These 
-   materials consist of instructions and exercises related to some use of English grammar, punctuation, organization of 
+   materials consist of detailed instructions and exercises related to some use of English grammar, punctuation, organization of 
    paragraph, skills in editing, illustrating and so on. In pre-class materials, possible answers to exercises are given, but no 
    answers to the in-class exercises. Therefore, I posted here some of my answers to in-class exercises for reference if you are 
    interested.   
 
-   >[!NOTE]  
+   **Limitations:**   
    As the virtual live sessions are usually provided once a month and the schedule for next sessions are only given one month 
-   ahead (sometimes with no updates at all), I haven't found the chance to attend these sessions, but feel free to check out the 
-   sessions yourself.         
+   ahead (sometimes with no updates at all), the sessions are not as freely available as the pre-class and in-class materials. 
+   So I haven't found the chance to attend these sessions, but feel free to check out the sessions yourself.         
     
 2. [Coursera: Introduction to Technical Writing](https://www.coursera.org/programs/learning-program-for-family-iwira/learn/technical-writing-introduction?source=search)
 
-   **Rating:** ⭐⭐⭐
-   
+   **Rating:** ⭐⭐⭐  
+   This is another course suitable for complete beginners to upgrade their skills in technical writing. It consists of four 
+   modules:
 
+     * Fundamentals of Technical Writing
+     * Design Principles and Essential Writing Tools
+     * Diverse Technical Document Types and Ethical Practices
+     * Advanced Topics and Career Advancement
+
+   **Highlights:**  
+   The course offers an overview of the principles, common document types, writing and illustrating tools, and some of the best 
+   practices in technical writing. Personally, the second and the fourth module seem more useful to me, as they include some 
+   practical advice in document design, creating a strong technical writing portfolio, and self-directed learning.
+   
+   **Limitations:**       
+   The course is more theory-based without giving enough real-word practi
