@@ -46,8 +46,14 @@ The list is still under development, and hopefully will be useful to anyone who 
 
    **Highlights:**  
    The course offers an overview of the principles, common document types, writing and illustrating tools, and some of the best 
-   practices in technical writing. Personally, the second and the fourth module seem more useful to me, as they include some 
-   practical advice in document design, creating a strong technical writing portfolio, and self-directed learning.
+   practices in technical writing. Personally, the second and the fourth module have been more useful to me, as they include 
+   some practical advice in document design, creating a strong technical writing portfolio, and self-directed learning.
    
    **Limitations:**       
-   The course is more theory-based without giving enough real-word practi
+   The course only scratches the surface of technical writing, and it is more theory-based without giving many hands-on 
+   exercises. So this course may not be that informative for people who already have some knowledge of this field or those who 
+   are seeking to enhance their skills in a real world situation, such as producing a certain type of technical document with 
+   the help of a specific writing tool.
+
+
+   3. 
