@@ -9,7 +9,7 @@ Here is a list of online technical writing courses and learning materials I have
 The list is still under development, and hopefully will be useful to anyone who is embarking on the career of technical writing just like me.
 
 
-**Technical writing courses**
+# **Technical writing courses**
 
 
 ## 1. [Google Technical Writing Courses for developers](https://developers.google.com/tech-writing/for-instructors)  
@@ -56,5 +56,7 @@ The list is still under development, and hopefully will be useful to anyone who 
    with the help of a specific writing tool.
 
 ## 3. Technical Writing Courses by Zhijun Gao 
+> [!NOTE]
+> The following courses and learning materials are mainly for Chinese speakers, as they are made by Zhijun Gao, a Chinese lecturer in Peking University. 
 
-  https://www.bilibili.com/video/BV1ak4y167go/?spm_id_from=333.999.0.0&vd_source=a9d1bc663dd1dfea91f90d753c79d394
+* [北大外院MTI讲座_技术写作概览_20200519](https://www.bilibili.com/video/BV1ak4y167go/?spm_id_from=333.999.0.0&vd_source=a9d1bc663dd1dfea91f90d753c79d394)
