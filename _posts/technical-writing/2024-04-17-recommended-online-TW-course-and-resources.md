@@ -12,7 +12,7 @@ The list is still under development, and hopefully will be useful to anyone who 
 **Technical writing courses**
 
 
-1. [Google Technical Writing Courses for developers](https://developers.google.com/tech-writing/for-instructors)  
+## 1. [Google Technical Writing Courses for developers](https://developers.google.com/tech-writing/for-instructors)  
 
    **Rating:** ⭐⭐⭐⭐  
    These Google courses are suitable for a complete beginner of technical writing, as they cover the basics and intermediate 
@@ -33,7 +33,7 @@ The list is still under development, and hopefully will be useful to anyone who 
    ahead (sometimes with no updates at all), the sessions are not as freely available as the pre-class and in-class materials. 
    So I haven't found the chance to attend these sessions, but feel free to check out the sessions yourself.         
     
-2. [Coursera: Introduction to Technical Writing](https://www.coursera.org/programs/learning-program-for-family-iwira/learn/technical-writing-introduction?source=search)
+## 2. [Coursera: Introduction to Technical Writing](https://www.coursera.org/programs/learning-program-for-family-iwira/learn/technical-writing-introduction?source=search)
 
    **Rating:** ⭐⭐⭐  
    This is another course suitable for complete beginners to upgrade their skills in technical writing. It consists of four 
@@ -51,9 +51,10 @@ The list is still under development, and hopefully will be useful to anyone who 
    
    **Limitations:**       
    The course only scratches the surface of technical writing, and it is more theory-based without giving many hands-on 
-   exercises. So this course may not be that informative for people who already have some knowledge of this field or those who 
-   are seeking to enhance their skills in a real world situation, such as producing a certain type of technical document with 
-   the help of a specific writing tool.
+   exercises. So, this course may not be very informative for people who already have some knowledge of this field or for those 
+   who are seeking to enhance their skills in a real-world situation, such as producing a certain type of technical document 
+   with the help of a specific writing tool.
 
+## 3. Technical Writing Courses by Zhijun Gao 
 
-   3. 
+  https://www.bilibili.com/video/BV1ak4y167go/?spm_id_from=333.999.0.0&vd_source=a9d1bc663dd1dfea91f90d753c79d394
