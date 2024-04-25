@@ -57,6 +57,10 @@ The list is still under development, and hopefully will be useful to anyone who 
 
 ## 3. Technical Writing Courses by Zhijun Gao 
 > [!NOTE]
-> The following courses and learning materials are mainly for Chinese speakers, as they are made by Zhijun Gao, a Chinese lecturer in Peking University. 
+> The following courses and learning materials are mainly for **Chinese speakers**, as they are made by Zhijun Gao, a Chinese lecturer in the *School of Software and Microelectronics of Peking University*. Doctor Gao have been active on several Chinese social media platforms such as bilibili, weibo, zhihu and has his own website which contains a number of great articles and resources related to technical communications, language learning and translation.  
 
+* [技术写作：原理与实践(2020)](https://techcomm-book.readthedocs.io/zh-cn/latest/index.html)
 * [北大外院MTI讲座_技术写作概览_20200519](https://www.bilibili.com/video/BV1ak4y167go/?spm_id_from=333.999.0.0&vd_source=a9d1bc663dd1dfea91f90d753c79d394)
+
+
+
