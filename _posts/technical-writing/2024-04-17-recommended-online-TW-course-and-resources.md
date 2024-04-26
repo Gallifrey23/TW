@@ -9,8 +9,9 @@ Here is a list of online technical writing courses and learning materials I have
 The list is still under development, and hopefully will be useful to anyone who is embarking on the career of technical writing just like me.
 
 
-# **Technical writing courses**
+## **Technical writing courses**
 
+* * *
 
 ## 1. [Google Technical Writing Courses for developers](https://developers.google.com/tech-writing/for-instructors)  
 
@@ -55,9 +56,13 @@ The list is still under development, and hopefully will be useful to anyone who 
    who are seeking to enhance their skills in a real-world situation, such as producing a certain type of technical document 
    with the help of a specific writing tool.
 
-## 3. Technical Writing Courses by Zhijun Gao 
+## 3. Technical Writing Courses by Zhijun Gao （高志军） 
 > [!NOTE]
-> The following courses and learning materials are mainly for **Chinese speakers**, as they are made by Zhijun Gao, a Chinese lecturer in the *School of Software and Microelectronics of Peking University*. Doctor Gao have been active on several Chinese social media platforms such as bilibili, weibo, zhihu and has his own website which contains a number of great articles and resources related to technical communications, language learning and translation.  
+> 
+> The following courses and learning materials are mainly for **Chinese speakers**, as they are made by Zhijun Gao, a Chinese lecturer who is currently teaching at the *School of Software and Microelectronics of Peking University*.
+> 
+> Doctor Gao has been active on several Chinese social media platforms such as Bilibili, Weibo, Zhihu and has [his own website](https://gaozhijun.me/) which contains many other great articles and resources related to technical communications, language learning and translation apart from the list shown below.  
+
 
 * [技术写作：原理与实践(2020)](https://techcomm-book.readthedocs.io/zh-cn/latest/index.html)
 * [北大外院MTI讲座_技术写作概览_20200519](https://www.bilibili.com/video/BV1ak4y167go/?spm_id_from=333.999.0.0&vd_source=a9d1bc663dd1dfea91f90d753c79d394)
