@@ -63,6 +63,7 @@ The list is still under development, and hopefully will be useful to anyone who 
 > 
 > Doctor Gao has been active on several Chinese social media platforms such as Bilibili, Weibo, Zhihu and has [his own website](https://gaozhijun.me/) which contains many other great articles and resources related to technical communications, language learning and translation apart from the list shown below.  
 
+Doctor Gao has been kind enough to post some of his online courses and sessions on Bilibili and corresponding textbooks through Github and ReadtheDocs. All of the resources here are freely available online. If you are new to technical writing just like me, you can go through the courses and textbooks one by one as they are sequenced below. Alternatively, you can select whatever interests you and delve into that to learn more.
 
 * [技术写作：原理与实践(2020)](https://techcomm-book.readthedocs.io/zh-cn/latest/index.html)
 * [北大外院MTI讲座_技术写作概览_20200519](https://www.bilibili.com/video/BV1ak4y167go/?spm_id_from=333.999.0.0&vd_source=a9d1bc663dd1dfea91f90d753c79d394)
