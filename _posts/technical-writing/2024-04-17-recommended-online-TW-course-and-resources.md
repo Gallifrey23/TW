@@ -59,7 +59,7 @@ The list is still under development, and hopefully will be useful to anyone who 
 ## 3. Technical Writing Courses by Zhijun Gao （高志军） 
 > **NOTE:**
 > 
-> The following courses and learning materials are mainly for **Chinese speakers**, as they are made by Zhijun Gao, a Chinese lecturer who is currently teaching at the *School of Software and Microelectronics of Peking University*.
+> The following courses and learning materials are mainly for **Chinese speakers**, as they are made by **Zhijun Gao**, a Chinese lecturer who is currently teaching at the **School of Software and Microelectronics of Peking University**.
 > 
 > Doctor Gao has been kind enough to post some of his online courses and sessions on [Bilibili](https://space.bilibili.com/71069636?spm_id_from=333.788.0.0) and corresponding textbooks through Github and ReadtheDocs. All of the resources here are freely available online. As some of the books and materials are still under development, no ratings are given here. However, most of the resources listed below have been extremely useful for me. So if you are also new to technical writing, you can go through the courses and textbooks one by one as they are sequenced below. Alternatively, you can select whatever interests you and delve into that to learn more.
 >
@@ -69,6 +69,19 @@ The list is still under development, and hopefully will be useful to anyone who 
 
 * [技术写作：原理与实践(2020)](https://techcomm-book.readthedocs.io/zh-cn/latest/index.html)
 * [北大外院MTI讲座_技术写作概览_20200519](https://www.bilibili.com/video/BV1ak4y167go/?spm_id_from=333.999.0.0&vd_source=a9d1bc663dd1dfea91f90d753c79d394)
-This section contains one textbook and a short online session  
+
+This section contains one textbook and an online session. The topics discussed in this section include:
+
+     * Overview of Technical Writing
+     * Common Forms of User Assistance
+     * User Needs Analysis
+     * Design of Technical Information
+     * Fundamental Skills of Technical Information Developing 
+     * Common Technical Writing Tools
+     * Case Study：Improving Manuals for Technical Products(e.g. AntConc) 
+     ...
+
+### II. A Practical Guide in Technical Writing
 
 * [技术写作实用教程](https://tw.gaozhijun.me/index.html)
+* [蚂蚁集团-北京大学教育部产学研协同育人项目支持课程]()
