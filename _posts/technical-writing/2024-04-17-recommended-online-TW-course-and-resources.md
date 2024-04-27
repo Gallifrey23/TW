@@ -84,4 +84,6 @@ This section contains one textbook and an online session. The topics discussed i
 ### II. A Practical Guide in Technical Writing
 
 * [技术写作实用教程](https://tw.gaozhijun.me/index.html)
-* [蚂蚁集团-北京大学教育部产学研协同育人项目支持课程]()
+* [技术写作入门课程](https://www.bilibili.com/video/BV1Wb4y157H9/?spm_id_from=333.788.recommend_more_video.-1&vd_source=a9d1bc663dd1dfea91f90d753c79d394)
+
+
