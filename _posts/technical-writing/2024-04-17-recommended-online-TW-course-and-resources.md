@@ -57,16 +57,18 @@ The list is still under development, and hopefully will be useful to anyone who 
    with the help of a specific writing tool.
 
 ## 3. Technical Writing Courses by Zhijun Gao （高志军） 
-> [!NOTE]
+> **NOTE:**
 > 
 > The following courses and learning materials are mainly for **Chinese speakers**, as they are made by Zhijun Gao, a Chinese lecturer who is currently teaching at the *School of Software and Microelectronics of Peking University*.
 > 
-> Doctor Gao has been active on several Chinese social media platforms such as Bilibili, Weibo, Zhihu and has [his own website](https://gaozhijun.me/) which contains many other great articles and resources related to technical communications, language learning and translation apart from the list shown below.  
+> Doctor Gao has been kind enough to post some of his online courses and sessions on Bilibili and corresponding textbooks through Github and ReadtheDocs. All of the resources here are freely available online. As some of the books and materials are still under development, no ratings are given here. However, most of the resources listed below have been extremely useful for me. So if you are also new to technical writing, you can go through the courses and textbooks one by one as they are sequenced below. Alternatively, you can select whatever interests you and delve into that to learn more.
+>
+> Doctor Gao has also been active on several Chinese social media platforms such as Weibo, Zhihu and has [his own website](https://gaozhijun.me/) which contains many other great articles and resources related to technical communications, language learning and computer-aided translation apart from the list shown below.
 
-Doctor Gao has been kind enough to post some of his online courses and sessions on Bilibili and corresponding textbooks through Github and ReadtheDocs. All of the resources here are freely available online. If you are new to technical writing just like me, you can go through the courses and textbooks one by one as they are sequenced below. Alternatively, you can select whatever interests you and delve into that to learn more.
+### I. Introduction to Theory and Practice of Technical Writing
 
 * [技术写作：原理与实践(2020)](https://techcomm-book.readthedocs.io/zh-cn/latest/index.html)
 * [北大外院MTI讲座_技术写作概览_20200519](https://www.bilibili.com/video/BV1ak4y167go/?spm_id_from=333.999.0.0&vd_source=a9d1bc663dd1dfea91f90d753c79d394)
+This section contains one textbook and a short online session  
 
-
-
+* [技术写作实用教程](https://tw.gaozhijun.me/index.html)
